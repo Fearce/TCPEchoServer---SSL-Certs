@@ -1,0 +1,20 @@
+C:\D Drive\Undervisning\CodsC#\Solutions\TCPEchoServer\TCPEchoServer\bin\Debug\TCPEchoServer.exe.config
+C:\D Drive\Undervisning\CodsC#\Solutions\TCPEchoServer\TCPEchoServer\obj\Debug\TCPEchoServer.csprojResolveAssemblyReference.cache
+C:\D Drive\Undervisning\CodsC#\Solutions\TCPEchoServer\TCPEchoServer\bin\Debug\TCPEchoServer.exe
+C:\D Drive\Undervisning\CodsC#\Solutions\TCPEchoServer\TCPEchoServer\bin\Debug\TCPEchoServer.pdb
+C:\D Drive\Undervisning\CodsC#\Solutions\TCPEchoServer\TCPEchoServer\obj\Debug\TCPEchoServer.exe
+C:\D Drive\Undervisning\CodsC#\Solutions\TCPEchoServer\TCPEchoServer\obj\Debug\TCPEchoServer.pdb
+C:\Users\theke\Desktop\TCPEchoServerClient\TCPEchoServer\TCPEchoServer\bin\Debug\TCPEchoServer.exe.config
+C:\Users\theke\Desktop\TCPEchoServerClient\TCPEchoServer\TCPEchoServer\bin\Debug\TCPEchoServer.exe
+C:\Users\theke\Desktop\TCPEchoServerClient\TCPEchoServer\TCPEchoServer\bin\Debug\TCPEchoServer.pdb
+C:\Users\theke\Desktop\TCPEchoServerClient\TCPEchoServer\TCPEchoServer\obj\Debug\TCPEchoServer.csproj.CoreCompileInputs.cache
+C:\Users\theke\Desktop\TCPEchoServerClient\TCPEchoServer\TCPEchoServer\obj\Debug\TCPEchoServer.exe
+C:\Users\theke\Desktop\TCPEchoServerClient\TCPEchoServer\TCPEchoServer\obj\Debug\TCPEchoServer.pdb
+C:\Users\theke\Desktop\TCPEchoServerClient\TCPEchoServer\TCPEchoServer\obj\Debug\TCPEchoServer.csprojAssemblyReference.cache
+C:\Users\theke\source\repos\TCPEchoServer - Copy\TCPEchoServer\bin\Debug\TCPEchoServer.exe.config
+C:\Users\theke\source\repos\TCPEchoServer - Copy\TCPEchoServer\bin\Debug\TCPEchoServer.exe
+C:\Users\theke\source\repos\TCPEchoServer - Copy\TCPEchoServer\bin\Debug\TCPEchoServer.pdb
+C:\Users\theke\source\repos\TCPEchoServer - Copy\TCPEchoServer\obj\Debug\TCPEchoServer.csprojAssemblyReference.cache
+C:\Users\theke\source\repos\TCPEchoServer - Copy\TCPEchoServer\obj\Debug\TCPEchoServer.csproj.CoreCompileInputs.cache
+C:\Users\theke\source\repos\TCPEchoServer - Copy\TCPEchoServer\obj\Debug\TCPEchoServer.exe
+C:\Users\theke\source\repos\TCPEchoServer - Copy\TCPEchoServer\obj\Debug\TCPEchoServer.pdb
